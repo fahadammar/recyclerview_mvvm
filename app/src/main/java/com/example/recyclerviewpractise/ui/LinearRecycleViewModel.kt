@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.recyclerviewpractise.RecyclerAdapter
 import com.example.recyclerviewpractise.model.RecyclerRepository
 
-class MainViewModel(private val context: Context) : ViewModel() {
+class LinearRecycleViewModel(private val context: Context) : ViewModel() {
     fun setRecyclerView(recyclerView: RecyclerView) {
         recyclerView.layoutManager =
             LinearLayoutManager(context, LinearLayoutManager.VERTICAL, false)

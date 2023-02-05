@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">recyclerviewpractise</string>
-    <string name="the_recycler_view_is_below">The Recycler View Is Below</string>
+    <string name="the_recycler_view_is_below">The Recycler Views</string>
+    <string name="button_linear_recycler">Linear Recycler View</string>
     <string name="name">Name</string>
     <string name="age">Age</string>
 </resources>
